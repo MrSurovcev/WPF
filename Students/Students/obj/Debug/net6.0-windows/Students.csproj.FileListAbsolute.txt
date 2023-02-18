@@ -1,0 +1,87 @@
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Students.exe
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Students.deps.json
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Students.runtimeconfig.json
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Students.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Students.pdb
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.csproj.AssemblyReference.cache
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.cache
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.lref
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.g.resources
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfoInputs.cache
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfo.cs
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CoreCompileInputs.cache
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CopyComplete
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\refint\Students.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.pdb
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\Students.genruntimeconfig.cache
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ref\Students.dll
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.baml
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.baml
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.g.cs
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.g.cs
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.g.cs
+C:\Users\d.surovtsev\Desktop\тест кода консольное приложение\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.baml
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Students.exe
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Students.deps.json
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Students.runtimeconfig.json
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Students.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Students.pdb
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.baml
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.baml
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.g.cs
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.g.cs
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.g.cs
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.cache
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.lref
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.baml
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.g.resources
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfo.cs
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CopyComplete
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\refint\Students.dll
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.pdb
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\Students.genruntimeconfig.cache
+C:\Users\User\Desktop\Разработка\MyGit\Students\Students\obj\Debug\net6.0-windows\ref\Students.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Students.exe
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Students.deps.json
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Students.runtimeconfig.json
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Students.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Students.pdb
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.baml
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.baml
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentInfoView.g.cs
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\Controls\StudentsListView.g.cs
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.g.cs
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.cache
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students_MarkupCompile.lref
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ViewModel\MainWindow\MainWindow.baml
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.g.resources
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.AssemblyInfo.cs
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.csproj.CopyComplete
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\refint\Students.dll
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.pdb
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\Students.genruntimeconfig.cache
+C:\Users\User\Source\Repos\MrSurovcev\WPF\Students\Students\obj\Debug\net6.0-windows\ref\Students.dll
